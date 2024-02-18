@@ -45,34 +45,4 @@ function App() {
 }
 
 export default App;
-// // const [name, setName] = useState("beamlak");
-// // const handleClick = () => {
-// //   setName("Tesfahun");
-// // };
-// const [count, setCount] = useState(0);
-// const [showCount, setShowCount] = useState(true);
-// const handleCount = () => {
-//   // setCount(count + 1);
-//   setCount((prevCount) => prevCount + 1);
-//   setCount((prevCount) => prevCount + 1);
-// };
-// const handleShowCount = () => {
-//   setShowCount(true);
-// };
-// const handleHideCount = () => {
-//   setShowCount(false);
-// };
 
-// {/* <button onClick={handleShowCount}>Show count</button>
-//       <button onClick={handleHideCount}>Hide count</button>
-//       {/* <button onClick={() => (prevShowCount) => !prevShowCount}>Toggle</button> */}
-
-//       {showCount && (
-//         <div>
-//           <p>Count: {count}</p>
-//           <button onClick={handleCount}>Count </button>
-//         </div>
-//       )}
-//       {/* <h1>My name is {name}</h1> */}
-//       {/*
-//       <button onClick={handleCount}>Count </button> */} */}
